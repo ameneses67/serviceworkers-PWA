@@ -1,4 +1,4 @@
-const nombreCache = "apv-v5";
+const nombreCache = "apv-v6";
 
 const archivos = [
   "/",
